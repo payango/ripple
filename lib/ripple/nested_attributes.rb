@@ -1,5 +1,5 @@
 require 'active_support/concern'
-require 'active_support/core_ext/class/inheritable_attributes'
+require 'active_support/core_ext/class/attribute'
 
 module Ripple
   module NestedAttributes #:nodoc:
